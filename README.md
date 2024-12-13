@@ -18,7 +18,7 @@ chengyangwu@stu.pku.edu.cn
 Lie groups, Homogeneous dynamical systems, and Diophantine approximations. 
 
 ## Preprints and Publications:
--(Joint work with Danijela Damyanovic, Amie Wilkinson, and Disheng Xu) The symmetries of affine K-systems and a program for centralizer rigidity. (To appear)
+-(Joint work with [Danijela Damyanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://www.researchgate.net/profile/Disheng-Xu-4)) The symmetries of affine K-systems and a program for centralizer rigidity. (To appear)
 -(Joint work with Zichang Wang and Bohan Yang) On identities concerning integer parts, Combinatorics and Number Theory 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317
 
 ## Talks:
