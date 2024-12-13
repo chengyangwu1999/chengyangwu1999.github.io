@@ -8,8 +8,8 @@ Email:<br>
 
 
 ## Education Career:
--(2024.8-present) Visiting Scholar, Department of Mathematics, Brandeis University.
--(2021.9-present) Ph.D. candidate, School of Mathematical Sciences, Peking University.
+-(2024.8-present) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
+-(2021.9-present) Ph.D. candidate, School of Mathematical Sciences, Peking University.<br>
 -(2017.9-2021.6) B.S., Department of Mathematics, Nanjing University.
 
 ## Research Interests:
