@@ -22,8 +22,8 @@ Thesis advisor: [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.
 Lie groups, Homogeneous dynamical systems, and Diophantine approximations. 
 
 ## Preprints and Publications:
-- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://www.researchgate.net/profile/Disheng-Xu-4)) The symmetries of affine K-systems and a program for centralizer rigidity. (To appear)
-- (Joint work with Zichang Wang and Bohan Yang) On identities concerning integer parts, Combinatorics and Number Theory, 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317.
+- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://www.researchgate.net/profile/Disheng-Xu-4)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (To appear)
+- (Joint work with Zichang Wang and Bohan Yang) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317.
 
 ## Talks:
 TBD
