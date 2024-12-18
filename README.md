@@ -15,7 +15,7 @@ Co-advisor: [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/).
 - (2021.9-present) Ph.D. candidate, School of Mathematical Sciences, Peking University.<br>
 Advisor: [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University.<br>
-Thesis: [On a class of Frobenius Lie algebras.](Undergraduate_Thesis.pdf) Thesis advisor: [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html). 
+Thesis: [On a class of Frobenius Lie algebras.](File/Undergraduate_Thesis.pdf) Thesis advisor: [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html). 
 
 ## Research Interests:
 
