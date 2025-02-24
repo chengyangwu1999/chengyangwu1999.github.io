@@ -2,7 +2,7 @@ Here is the math page for Chengyang Wu.
 
 ## About me:
 
-I am currently a visiting scholar at Brandeis University, and at the same time a fourth-year Ph.D. candidate at Peking University.
+I am currently a fourth-year Ph.D. candidate at Peking University.
 
 Email:<br>
 - chengyangwu@brandeis.edu
@@ -10,7 +10,7 @@ Email:<br>
 - chengyangwu@stu.pku.edu.cn
 
 ## Education Career:
-- (2024.8-present) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
+- (2024.8-2025.2) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
 Co-advisor: [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/).
 - (2021.9-present) Ph.D. candidate, School of Mathematical Sciences, Peking University.<br>
 Advisor: [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).
@@ -31,4 +31,10 @@ Lie groups, Homogeneous dynamical systems, and Diophantine approximations.
 TBD
 
 ## Teaching Experiences
-TBD
+- (2025 Spring) Linear Algebra A (II).
+- (2024 Spring) Higher Algebra (II), Honors Class.
+- (2023 Fall) Higher Algebra (I), Honors Class.
+- (2023 Spring) Higher Algebra (II), Honors Class.
+- (2022 Fall) Higher Algebra (I), Honors Class.
+- (2022 Spring) Mathematical Analysis (II).
+- (2021 Fall) Linear Algebra B.
