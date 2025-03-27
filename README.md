@@ -5,7 +5,6 @@ Here is the math page for Chengyang Wu.
 I am currently a fourth-year Ph.D. candidate at Peking University.
 
 Email:<br>
-- chengyangwu@brandeis.edu
 - chengyangwu1999@gmail.com
 - chengyangwu@stu.pku.edu.cn
 
@@ -23,15 +22,16 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergradu
 Lie groups, Homogeneous dynamical systems, and Diophantine approximations. 
 
 ## Preprints and Publications:
-- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_. (To appear)
-- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://www.researchgate.net/profile/Disheng-Xu-4)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (To appear)
+- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_. (Preprint)
+- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Preprint)
 - (Joint work with Zichang Wang and Bohan Yang) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317.
 
 ## Talks:
 TBD
 
 ## Teaching Experiences
-- [Teaching Materials](http://scholar.pku.edu.cn/chengyangwu/classes).
+
+Here is a collection of [Teaching Materials](http://scholar.pku.edu.cn/chengyangwu/classes) for courses below.
 - (2025 Spring) Linear Algebra A (II).
 - (2024 Spring) Higher Algebra (II), Honors Class.
 - (2023 Fall) Higher Algebra (I), Honors Class.
