@@ -2,7 +2,7 @@ Here is the math page for Chengyang Wu.
 
 ## About me:
 
-I am currently a fourth-year Ph.D. candidate at Peking University.
+I am currently a fifth-year Ph.D. candidate at Peking University. I'm on market now!
 
 Email:<br>
 - chengyangwu1999@gmail.com
@@ -20,6 +20,11 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergradu
 ## Research Interests:
 
 Lie groups, Homogeneous dynamical systems, and Diophantine approximations. 
+
+## Papers in Preparation
+- (Joint work with [Pengyu Yang]()) _Equi-distribution for Weighted Expanding Translates on Analytic Curves in SL_3(R)/SL_3(Z)_.
+- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/)) _Quantitative Version of Schmidt's Conjecture via a Potential Function Method_.
+- (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously Bounded and Dense Orbits For Commuting Cartan Actions_.
 
 ## Preprints and Publications:
 - (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_. (Preprint)
