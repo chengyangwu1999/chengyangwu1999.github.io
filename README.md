@@ -21,14 +21,14 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergradu
 
 Lie groups, Homogeneous dynamical systems, and Diophantine approximations. 
 
-## Papers in Preparation
-- (Joint work with [Pengyu Yang]()) _Equi-distribution for Weighted Expanding Translates on Analytic Curves in SL_3(R)/SL_3(Z)_.
-- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/)) _Quantitative Version of Schmidt's Conjecture via a Potential Function Method_.
-- (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously Bounded and Dense Orbits For Commuting Cartan Actions_.
+## Papers in Preparation:
+- (Joint work with [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) _Equi-distribution for Weighted Expanding Translates on Analytic Curves in SL_3(R)/SL_3(Z)_.
+- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _Quantitative Version of Schmidt's Conjecture via a Potential Function Method_.
 
 ## Preprints and Publications:
-- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_. (Preprint)
-- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Preprint)
+- (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously Bounded and Dense Orbits For Commuting Cartan Actions_. (Submitted)
+- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_. (Submitted)
+- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Submitted)
 - (Joint work with Zichang Wang and Bohan Yang) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317.
 
 ## Notes:
@@ -37,7 +37,18 @@ Lie groups, Homogeneous dynamical systems, and Diophantine approximations.
   
 
 ## Talks:
-TBD
+- (2025.9.17, Fudan University, invited by [Ronggang Shi]()) _Simultaneously Bounded and Dense Orbits For Commuting Cartan Actions, and An Application Towards Uniform Littlewood's Conjecture_.
+- (2025.8.10, TMSE, invited by [Weisheng Wu]()) 
+- (2025.7.23, SIMIS, invited by [Anurag Rao]())
+- (2025.5.28, MCMCAS, invited by [Pengyu Yang]())
+- (2025.4.26, Peking University Graduate Student Seminar) Title: _Bounded and HAW properties_.
+- (2025.3.4, Nanjing University, invited by [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html)) Title: 
+- (2025.2.6, Brandeis Topological Seminar, invited by [Daniel Alvarez-Gavela](https://danielalvarezgavela.com/)) Title: _Bounded Geodesics on Locally Symmetric Spaces_.
+- (2025.1.31, Tufts University, invited by [Boris Hasselblatt](https://facultyprofiles.tufts.edu/boris-hasselblatt)) Title: _Bounded Geodesics on Locally Symmetric Spaces_.
+- (2025.1.13, Chicago University, invited by [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
+- (2024.10.22, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Two-dimensional
+quantitative Schmidt’s conjecture_.
+- (2024.9.19, Brandeis Graduate Student Seminar) Title: _Stable Ergodicity and Centralizers_.
 
 ## Teaching Experiences
 
