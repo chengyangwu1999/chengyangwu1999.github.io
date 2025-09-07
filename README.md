@@ -53,7 +53,7 @@ quantitative Schmidt’s conjecture_.
 quantitative Schmidt’s conjecture_.
 
 ## Reading Seminars:
-- (2025 Spring, MCMCAS, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Equi-distribution of A-periodic orbits on SL_2(Z)/SL_2(R) and Duke's theorem.
+- (2025 Spring, MCMCAS, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Equi-distribution of A-periodic orbits on SL_2(R)/SL_2(Z) and Duke's theorem.
 - (2025 Spring, Brandeis University, self-organized) Roy and Yuming's construction of templates in parametric geometry of numbers.
 - (2024 Fall, Brandeis University, organized by Vasiliy Neckrasov) A variational principle in parametric geometry of numbers.
 - (2023 Fall, MCMCAS, [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) A lemma of Einsiedler-Katok and its generalization in high entropy arguments.
