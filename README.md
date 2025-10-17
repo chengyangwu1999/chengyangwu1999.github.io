@@ -37,10 +37,12 @@ Lie groups, Homogeneous dynamical systems, and Diophantine approximations.
   
 
 ## Talks:
+- (2024.10.14, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions_.
+- (2024.9.23, Soochow Univeristy, invited by [Han Zhang](https://www.researchgate.net/profile/Han-Zhang-115)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and An Application Towards Uniform Littlewood's Conjecture_.
 - (2025.9.17, Fudan University, invited by [Ronggang Shi](https://rgstone.github.io/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and An Application Towards Uniform Littlewood's Conjecture_.
 - (2025.8.10, TMSE, invited by [Weisheng Wu](https://math.xmu.edu.cn/info/1081/11192.htm)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
 - (2025.7.23, SIMIS, invited by [Anurag Rao](https://sites.google.com/view/anuragraoswebsite/home)) Title: _Bounded Geodesics on Locally Symmetric Spaces and HAW properties_.
-- (2025.5.28, MCMCAS, invited by [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
+- (2025.5.28, Chinese Academy of Sciences, invited by [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
 - (2025.4.26, Peking University Graduate Student Seminar) Title: _Bounded Geodesics on Locally Symmetric Spaces and HAW properties_.
 - (2025.3.4, Nanjing University, invited by [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
 - (2025.2.6, Brandeis Topological Seminar, invited by [Daniel Alvarez-Gavela](https://danielalvarezgavela.com/)) Title: _Bounded Geodesics on Locally Symmetric Spaces_.
@@ -53,13 +55,13 @@ quantitative Schmidt’s conjecture_.
 quantitative Schmidt’s conjecture_.
 
 ## Reading Seminars:
-- (2025 Spring, MCMCAS, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Equi-distribution of A-periodic orbits on SL_2(R)/SL_2(Z) and Duke's theorem.
+- (2025 Spring, Chinese Academy of Sciences, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Equi-distribution of A-periodic orbits on SL_2(R)/SL_2(Z) and Duke's theorem.
 - (2025 Spring, Brandeis University, self-organized) Roy and Yuming's construction of templates in parametric geometry of numbers.
 - (2024 Fall, Brandeis University, organized by Vasiliy Neckrasov) A variational principle in parametric geometry of numbers.
-- (2023 Fall, MCMCAS, [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) A lemma of Einsiedler-Katok and its generalization in high entropy arguments.
+- (2023 Fall, Chinese Academy of Sciences, [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) A lemma of Einsiedler-Katok and its generalization in high entropy arguments.
 - (2023 Summer, Peking University, organized by [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/)) Proof of Ratner’s theorems using shearing property.
-- (2023 Spring, MCMCAS, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Geodesic submanifolds and properly supported measures in hyperbolic spaces.
-- (2022 Fall, MCMCAS, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) From large dimension to effective density for the effective equi-distribution of unipotent flows.
+- (2023 Spring, Chinese Academy of Sciences, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Geodesic submanifolds and properly supported measures in hyperbolic spaces.
+- (2022 Fall, Chinese Academy of Sciences, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) From large dimension to effective density for the effective equi-distribution of unipotent flows.
 - (2022 Spring, Peking University, organized by [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/)) Measure rigidity and entropy methods for diagonal actions on homogeneous spaces.
 
 ## Teaching Experiences:
