@@ -66,7 +66,7 @@ quantitative Schmidt’s conjecture_.
 
 ## Teaching Experiences:
 
-Here is a collection of [Teaching Materials](http://scholar.pku.edu.cn/chengyangwu/classes) for courses below. Some videoes are available at [Youtube Channel](https://www.youtube.com/@chengyangwu1999). Students' feedbacks are stored in [the file](File/Chengyang_Wu_Feedbacks.pdf).
+Here is a collection of [Teaching Materials](http://scholar.pku.edu.cn/chengyangwu/classes) for courses below. Some videoes are available at [Youtube Channel](https://www.youtube.com/@chengyangwu1999). 
 - (2025 Spring) Linear Algebra A (II).
 - (2024 Spring) Higher Algebra (II), Honors Class.
 - (2023 Fall) Higher Algebra (I), Honors Class.
