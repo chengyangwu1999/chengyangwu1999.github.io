@@ -22,14 +22,14 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergradu
 Lie groups, Homogeneous dynamical systems, and Diophantine approximations. 
 
 ## Papers in Preparation:
-- (Joint work with [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) _Equi-distribution for Weighted Expanding Translates on Analytic Curves in SL_3(R)/SL_3(Z)_.
-- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _Quantitative Version of Schmidt's Conjecture via a Potential Function Method_.
+- (Joint work with [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) _Equi-distribution for weighted expanding translates on analytic curves in SL_3(R)/SL_3(Z)_.
+- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _Quantitative version of Schmidt's conjecture via a potential function method_.
 
 ## Preprints and Publications:
 - (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously bounded and dense orbits for commuting Cartan actions_. (Submitted)
 - (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_. (Submitted)
 - (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Submitted)
-- (Joint work with Zichang Wang and Bohan Yang) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317.
+- (Joint work with Zichang Wang and [Bohan Yang](https://www.simis.cn/bohan-yang/)) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317.
 
 ## Notes:
 - _Margulis' and Littlewood's conjectures_.
