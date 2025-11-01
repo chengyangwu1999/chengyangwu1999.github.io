@@ -4,7 +4,7 @@ Here is the math page for Chengyang Wu.
 
 I am currently a fifth-year Ph.D. candidate at Peking University. I'm on market now!
 
-![My Photo](Photo/Brandeis.jpg)
+![MyPhoto](Photo/Brandeis.jpg)
 
 Email:<br>
 - chengyangwu1999@gmail.com
