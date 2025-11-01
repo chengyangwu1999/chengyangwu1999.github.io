@@ -38,19 +38,19 @@ Lie groups, Homogeneous dynamical systems, and Diophantine approximations.
 
 ## Talks:
 - (2024.10.14, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions_.
-- (2024.9.23, Soochow Univeristy, invited by [Han Zhang](https://www.researchgate.net/profile/Han-Zhang-115)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and An Application Towards Uniform Littlewood's Conjecture_.
-- (2025.9.17, Fudan University, invited by [Ronggang Shi](https://rgstone.github.io/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and An Application Towards Uniform Littlewood's Conjecture_.
+- (2024.9.23, Soochow Univeristy, invited by [Han Zhang](https://www.researchgate.net/profile/Han-Zhang-115)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and an application towards uniform Littlewood's conjecture_.
+- (2025.9.17, Fudan University, invited by [Ronggang Shi](https://rgstone.github.io/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and an application towards uniform Littlewood's conjecture_.
 - (2025.8.10, TMSE, invited by [Weisheng Wu](https://math.xmu.edu.cn/info/1081/11192.htm)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
-- (2025.7.23, SIMIS, invited by [Anurag Rao](https://sites.google.com/view/anuragraoswebsite/home)) Title: _Bounded Geodesics on Locally Symmetric Spaces and HAW properties_.
+- (2025.7.23, SIMIS, invited by [Anurag Rao](https://sites.google.com/view/anuragraoswebsite/home)) Title: _Bounded geodesics on locally symmetric spaces and HAW properties_.
 - (2025.5.28, Chinese Academy of Sciences, invited by [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
-- (2025.4.26, Peking University Graduate Student Seminar) Title: _Bounded Geodesics on Locally Symmetric Spaces and HAW properties_.
+- (2025.4.26, Peking University Graduate Student Seminar) Title: _Bounded geodesics on locally symmetric spaces and HAW properties_.
 - (2025.3.4, Nanjing University, invited by [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
-- (2025.2.6, Brandeis Topological Seminar, invited by [Daniel Alvarez-Gavela](https://danielalvarezgavela.com/)) Title: _Bounded Geodesics on Locally Symmetric Spaces_.
-- (2025.1.31, Tufts University, invited by [Boris Hasselblatt](https://facultyprofiles.tufts.edu/boris-hasselblatt)) Title: _Bounded Geodesics on Locally Symmetric Spaces_.
+- (2025.2.6, Brandeis Topological Seminar, invited by [Daniel Alvarez-Gavela](https://danielalvarezgavela.com/)) Title: _Bounded geodesics on locally symmetric spaces_.
+- (2025.1.31, Tufts University, invited by [Boris Hasselblatt](https://facultyprofiles.tufts.edu/boris-hasselblatt)) Title: _Bounded geodesics on locally symmetric spaces_.
 - (2025.1.13, Chicago University, invited by [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
 - (2024.10.22, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Two-dimensional
 quantitative Schmidt’s conjecture_.
-- (2024.9.19, Brandeis Graduate Student Seminar) Title: _Stable Ergodicity and Centralizers_.
+- (2024.9.19, Brandeis Graduate Student Seminar) Title: _Stable ergodicity and centralizers_.
 - (2024.8.6, Westlake University, invited by [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) Title: _Two-dimensional
 quantitative Schmidt’s conjecture_.
 
