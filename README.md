@@ -1,10 +1,11 @@
 Here is the math page for Chengyang Wu.
 
 ## About me:
+<img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="350">
 
 I am currently a fifth-year Ph.D. candidate at Peking University. I'm on market now!
 
-![MyPhoto](Photo/Brandeis.jpg)
+My research interests include Lie groups, homogeneous dynamical systems, and Diophantine approximations. 
 
 Email:<br>
 - chengyangwu1999@gmail.com
@@ -18,10 +19,6 @@ Advisor: [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University.<br>
 Thesis advisor: [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html).
 Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergraduate_Thesis.pdf).  
-
-## Research Interests:
-
-Lie groups, Homogeneous dynamical systems, and Diophantine approximations. 
 
 ## Papers in Preparation:
 - (Joint work with [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) _Equi-distribution for weighted expanding translates on analytic curves in SL_3(R)/SL_3(Z)_.
