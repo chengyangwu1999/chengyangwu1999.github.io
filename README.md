@@ -1,9 +1,9 @@
 Here is the math page for Chengyang Wu.
 
 ## About me:
-<img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="350">
+<img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500">
 
-I am currently a fifth-year Ph.D. candidate at Peking University. I'm on market now!
+I am currently a fifth-year Ph.D. candidate at the School of Mathematical Sciences, Peking University. I'm on the job market now!
 
 My research interests include Lie groups, homogeneous dynamical systems, and Diophantine approximations. 
 
