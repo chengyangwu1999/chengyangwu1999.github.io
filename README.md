@@ -3,9 +3,11 @@ Here is the math page for Chengyang Wu.
 
 ## About me:
 
-I am currently a fifth-year Ph.D. candidate at the School of Mathematical Sciences, Peking University. I'm on the job market now!
+I am currently a fifth-year Ph.D. candidate at the School of Mathematical Sciences, Peking University. 
 
-My research interests include Lie groups, homogeneous dynamical systems, and Diophantine approximations. 
+I'm on the job market now!
+
+My research interests include **Lie groups, homogeneous dynamical systems, and Diophantine approximations**. 
 
 Email:<br>
 - chengyangwu1999@gmail.com
