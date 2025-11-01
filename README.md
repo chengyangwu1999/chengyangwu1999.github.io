@@ -1,7 +1,7 @@
 Here is the math page for Chengyang Wu.
+<img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500">
 
 ## About me:
-<img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500">
 
 I am currently a fifth-year Ph.D. candidate at the School of Mathematical Sciences, Peking University. I'm on the job market now!
 
