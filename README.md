@@ -5,12 +5,11 @@ Here is the math page for Chengyang Wu.
 
 I am currently a fifth-year Ph.D. candidate at the School of Mathematical Sciences, Peking University. 
 
-I'm on the job market now!
-
 My research interests include **Lie groups, homogeneous dynamical systems, and Diophantine approximations**. 
 
 Email:<br>
 - chengyangwu1999@gmail.com
+- chengyangwu@uchicago.edu
 - chengyangwu@stu.pku.edu.cn
 
 ## Education Career:
@@ -33,13 +32,17 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergradu
 - (Joint work with Zichang Wang and [Bohan Yang](https://www.simis.cn/bohan-yang/)) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. DOI 10.2140/cnt.2024.13.317.
 
 ## Notes:
+- _Probability theory and stochastic process_.
 - _Margulis' and Littlewood's conjectures_.
 - _Schmidt's game and winning sets_.
+
   
 
 ## Talks:
-- (2024.10.14, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions_.
-- (2024.9.23, Soochow Univeristy, invited by [Han Zhang](https://www.researchgate.net/profile/Han-Zhang-115)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and an application towards uniform Littlewood's conjecture_.
+- (2025.12.17, Peking University Graduate Student Seminar) Title: _A quantitative version of Schmidt's conjecture_.
+- (2025.11.29, TMSE, invited by [Weisheng Wu](https://math.xmu.edu.cn/info/1081/11192.htm)) Title: _Topological rigidity and history of Margulis' conjecture_.
+- (2025.10.14, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions_.
+- (2025.9.23, Soochow Univeristy, invited by [Han Zhang](https://www.researchgate.net/profile/Han-Zhang-115)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and an application towards uniform Littlewood's conjecture_.
 - (2025.9.17, Fudan University, invited by [Ronggang Shi](https://rgstone.github.io/)) Title: _Simultaneously bounded and dense orbits for commuting Cartan actions, and an application towards uniform Littlewood's conjecture_.
 - (2025.8.10, TMSE, invited by [Weisheng Wu](https://math.xmu.edu.cn/info/1081/11192.htm)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
 - (2025.7.23, SIMIS, invited by [Anurag Rao](https://sites.google.com/view/anuragraoswebsite/home)) Title: _Bounded geodesics on locally symmetric spaces and HAW properties_.
