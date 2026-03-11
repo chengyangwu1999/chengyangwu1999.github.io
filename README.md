@@ -1,5 +1,11 @@
 Here is the math page for Chengyang Wu.
-<img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500">
+
+<figure style="float: right; text-align: center; margin: 0 0 1em 1em;">
+  <img src="Photo/Brandeis.jpg" alt="MyPhoto" width="500" style="display: block;">
+  <figcaption>Photographed by Alan Hou.</figcaption>
+</figure>
+
+<!-- <figure><img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500"><figcaption>Photographed by Alan Hou.</figcaption></figure> -->
 
 ## About me:
 
