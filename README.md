@@ -1,8 +1,8 @@
 Here is the math page for Chengyang Wu.
 
-<figure style="float: right; text-align: center; margin: 0 0 1em 1em;">
+<figure style="float: right; text-align: center; margin: -2em 0 1em 1em;">
   <img src="Photo/Brandeis.jpg" alt="MyPhoto" width="500" style="display: block;">
-  <figcaption>Photographed by Alan Hou.</figcaption>
+  <figcaption style="margin-top: 1em;">Photographed by Alan Hou.</figcaption>
 </figure>
 
 <!-- <figure><img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500"><figcaption>Photographed by Alan Hou.</figcaption></figure> -->
