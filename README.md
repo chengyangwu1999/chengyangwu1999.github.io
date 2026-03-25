@@ -7,9 +7,9 @@ Here is the math page for Chengyang Wu.
 
 <!-- <figure><img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500"><figcaption>Photographed by Alan Hou.</figcaption></figure> -->
 
-## One quatation from J. B. Priestley: 
+## One quatation: 
 
-_Between midnight and dawn, when sleep will not come and all the old wounds begin to ache, I often have a nightmare vision of a future world in which there are billions of people, all numbered and registered, with not a gleam of genius anywhere, not an original mind, a rich personality, on the whole packed globe. The twin ideals of our time, organisation and quantity, will have won forever._
+_Between midnight and dawn, when sleep will not come and all the old wounds begin to ache, I often have a nightmare vision of a future world in which there are billions of people, all numbered and registered, with not a gleam of genius anywhere, not an original mind, a rich personality, on the whole packed globe. The twin ideals of our time, organisation and quantity, will have won forever._ -- J. B. Priestley
 
 ## About me:
 
@@ -17,7 +17,7 @@ I am currently a fifth-year Ph.D. candidate at the School of Mathematical Scienc
 
 My research interests include **Lie groups, homogeneous dynamical systems, and Diophantine approximations**. 
 
-Email:<br>
+Email:
 - chengyangwu1999@gmail.com
 - chengyangwu@uchicago.edu
 - chengyangwu@stu.pku.edu.cn
