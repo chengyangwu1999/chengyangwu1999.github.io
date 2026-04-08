@@ -46,8 +46,6 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergradu
 - _Margulis' and Littlewood's conjectures_.
 - _Schmidt's game and winning sets_.
 
-  
-
 ## Talks:
 - (2025.12.17, Peking University Graduate Student Seminar) Title: _A quantitative version of Schmidt's conjecture_.
 - (2025.11.29, TMSE, invited by [Weisheng Wu](https://math.xmu.edu.cn/info/1081/11192.htm)) Title: _Topological rigidity and history of Margulis' conjecture_.
@@ -67,16 +65,6 @@ quantitative Schmidt’s conjecture_.
 - (2024.9.19, Brandeis Graduate Student Seminar) Title: _Stable ergodicity and centralizers_.
 - (2024.8.6, Westlake University, invited by [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) Title: _Two-dimensional
 quantitative Schmidt’s conjecture_.
-
-## Reading Seminars:
-- (2025 Spring, Chinese Academy of Sciences, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Equi-distribution of A-periodic orbits on SL_2(R)/SL_2(Z) and Duke's theorem.
-- (2025 Spring, Brandeis University, self-organized) Roy and Yuming's construction of templates in parametric geometry of numbers.
-- (2024 Fall, Brandeis University, organized by Vasiliy Neckrasov) A variational principle in parametric geometry of numbers.
-- (2023 Fall, Chinese Academy of Sciences, [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) A lemma of Einsiedler-Katok and its generalization in high entropy arguments.
-- (2023 Summer, Peking University, organized by [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/)) Proof of Ratner’s theorems using shearing property.
-- (2023 Spring, Chinese Academy of Sciences, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) Geodesic submanifolds and properly supported measures in hyperbolic spaces.
-- (2022 Fall, Chinese Academy of Sciences, organized by [Weikun He](http://homepage.amss.ac.cn/research/homePage/17902e3d211d45d7b099d774bbd98463/myHomePage.html) and [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_645157.html)) From large dimension to effective density for the effective equi-distribution of unipotent flows.
-- (2022 Spring, Peking University, organized by [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/)) Measure rigidity and entropy methods for diagonal actions on homogeneous spaces.
 
 ## Teaching Experiences:
 
