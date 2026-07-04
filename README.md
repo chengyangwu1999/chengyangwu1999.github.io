@@ -26,7 +26,7 @@ Email:
 Research Mentor: [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/).
 - (2024.8-2025.2) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
 Co-advisor: [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/).
-- (2021.9-2026.6) Ph.D. candidate, School of Mathematical Sciences, Peking University.<br>
+- (2021.9-2026.6) Ph.D., School of Mathematical Sciences, Peking University.<br>
 Advisor: [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).
 Thesis: [A quantitative version of Schmidt's conjecture (Chinese version)](). <br>
 Acknowledgement: [Acknowledgement in Ph.D. thesis (English version)]().
