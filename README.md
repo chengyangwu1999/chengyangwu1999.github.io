@@ -7,13 +7,13 @@ Here is the math page for Chengyang Wu.
 
 <!-- <figure><img align="right" src="Photo/Brandeis.jpg" alt="MyPhoto" width="500"><figcaption>Photographed by Alan Hou.</figcaption></figure> -->
 
-## One quatation: 
+## One quotation: 
 
 _Between midnight and dawn, when sleep will not come and all the old wounds begin to ache, I often have a nightmare vision of a future world in which there are billions of people, all numbered and registered, with not a gleam of genius anywhere, not an original mind, a rich personality, on the whole packed globe. The twin ideals of our time, organisation and quantity, will have won forever._ -- J. B. Priestley
 
 ## About me:
 
-I am currently a fifth-year Ph.D. candidate at the School of Mathematical Sciences, Peking University. 
+I am going to be a Dickson Instructor at the Department of Mathematics, University of Chicago. 
 
 My research interests include **Lie groups, homogeneous dynamical systems, and Diophantine approximations**. 
 
@@ -23,9 +23,11 @@ Email:
 - chengyangwu@stu.pku.edu.cn
 
 ## Education Career:
+- (2026.9-present) Dickson Instructor, Department of Mathematics, Brandeis University.<br>
+Research Mentor: [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/).
 - (2024.8-2025.2) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
 Co-advisor: [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/).
-- (2021.9-present) Ph.D. candidate, School of Mathematical Sciences, Peking University.<br>
+- (2021.9-2026.6) Ph.D. candidate, School of Mathematical Sciences, Peking University.<br>
 Advisor: [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University.<br>
 Thesis advisor: [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html).
@@ -36,9 +38,9 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese Version)](File/Undergradu
 - (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _Quantitative version of Schmidt's conjecture via a potential function method_.
 
 ## Preprints and Publications:
-- (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously bounded and dense orbits for commuting Cartan actions_. (Submitted)
-- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_. (Submitted)
-- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Submitted)
+- (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously bounded and dense orbits for commuting Cartan actions_. (Submitted) [arxiv:](https://arxiv.org/abs/2509.05272)
+- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Submitted) [arxiv:2504.09084](https://arxiv.org/abs/2504.09084)
+- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_, **Ergodic Theory and Dynamical Systems**, 2026, 1--25. [arxiv:2503.14007](https://arxiv.org/abs/2503.14007)
 - (Joint work with Zichang Wang and [Bohan Yang](https://www.simis.cn/bohan-yang/)) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. [arxiv:2410.10402](https://arxiv.org/abs/2410.10402)
 
 ## Notes:
