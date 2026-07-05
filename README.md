@@ -21,9 +21,11 @@ Email:
 - chengyangwu1999@gmail.com
 - chengyangwu@uchicago.edu
 
-## Education Career:
+## Academic Appointments:
 - (2026.9-present) Dickson Instructor, Department of Mathematics, University of Chicago.<br>
 Research Mentor: [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/).
+
+## Education Background:
 - (2024.8-2025.2) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
 Co-advisor: [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/).
 - (2021.9-2026.6) Ph.D., School of Mathematical Sciences, Peking University.<br>
