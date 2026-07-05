@@ -15,6 +15,8 @@ _Between midnight and dawn, when sleep will not come and all the old wounds begi
 
 I am going to be a Dickson Instructor this fall at the Department of Mathematics, University of Chicago. 
 
+Here is my [office location]() and my [colleagues](https://mathematics.uchicago.edu/people/#dickson-instructors).
+
 My research interests include **Lie groups, homogeneous dynamical systems, and Diophantine approximations**. 
 
 Email:
@@ -23,7 +25,7 @@ Email:
 
 ## Academic Appointments:
 - (2026.9-present) Dickson Instructor, Department of Mathematics, University of Chicago.<br>
-Research Mentor: [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/).
+Research mentor: [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/).
 
 ## Education Background:
 - (2024.8-2025.2) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
@@ -73,7 +75,7 @@ quantitative Schmidt’s conjecture_.
 - (2024.8.6, Westlake University, invited by [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) Title: _Two-dimensional
 quantitative Schmidt’s conjecture_.
 
-## Teaching Experiences:
+## Teaching Experience:
 
 Here is a collection of [Teaching Materials](File/LA_Notes_Chengyang_Wu.pdf) for courses below. Some videoes are available at [Youtube Channel](https://www.youtube.com/@chengyangwu1999). 
 - (2025 Spring) Linear Algebra A (II).
