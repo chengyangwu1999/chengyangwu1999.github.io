@@ -43,6 +43,7 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 - (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _Quantitative version of Schmidt's conjecture via a potential function method_.
 
 ## Preprints and Publications:
+- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Singular points for cone actions on the product of certain homogeneous spaces_. (Submitted) [arxiv:2607.15669](https://arxiv.org/abs/2607.15669)
 - (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously bounded and dense orbits for commuting Cartan actions_. (Submitted) [arxiv:2509.05272](https://arxiv.org/abs/2509.05272)
 - (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Submitted) [arxiv:2504.09084](https://arxiv.org/abs/2504.09084)
 - (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_, **Ergodic Theory and Dynamical Systems** 46, no. 8 (2026): 1969–1993. [arxiv:2503.14007](https://arxiv.org/abs/2503.14007)
