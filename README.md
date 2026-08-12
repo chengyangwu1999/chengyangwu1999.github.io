@@ -25,7 +25,7 @@ Email:
 
 ## Academic Appointments:
 - (2026.9-present) Dickson Instructor, Department of Mathematics, University of Chicago.<br>
-Research mentor: [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/).
+Research mentors: [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), [Alex Eskin](https://mathematics.uchicago.edu/people/profile/alex-eskin/), [Simion Filip](https://math.uchicago.edu/~sfilip/).
 
 ## Education Background:
 - (2024.8-2025.2) Visiting Scholar, Department of Mathematics, Brandeis University.<br>
