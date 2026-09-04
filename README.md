@@ -13,9 +13,9 @@ _Between midnight and dawn, when sleep will not come and all the old wounds begi
 
 ## About me:
 
-I am going to be a Dickson Instructor this fall at the Department of Mathematics, University of Chicago. 
+I'm currently a Dickson Instructor at the Department of Mathematics, University of Chicago. 
 
-Here is my [office location]() and my [colleagues](https://mathematics.uchicago.edu/people/#dickson-instructors).
+Here is my [office location](https://mathematics.uchicago.edu/people/profile/chengyang-wu/) and my [colleagues](https://mathematics.uchicago.edu/people/#dickson-instructors).
 
 My research interests include **Lie groups, homogeneous dynamical systems, and Diophantine approximations**. 
 
@@ -40,9 +40,10 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 
 ## Papers in Preparation:
 - (Joint work with [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_1094331.html)) _Equi-distribution for weighted expanding translates on analytic curves in SL_3(R)/SL_3(Z)_.
-- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _Quantitative version of Schmidt's conjecture via a potential function method_.
+- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _A quantitative version of Schmidt's conjecture_.
 
 ## Preprints and Publications:
+- (Joint work with [Vasiliy Neckrasov](https://www.vneckrasov.com/) and [Bohan Yang](https://www.simis.cn/bohan-yang/)) _Winning property of counterexamples to Uniform Littlewood's Conjecture_. (Submitted) [arXiv:2608.24401](https://arxiv.org/abs/2608.24401)
 - (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Singular points for cone actions on the product of certain homogeneous spaces_. (Submitted) [arxiv:2607.15669](https://arxiv.org/abs/2607.15669)
 - (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously bounded and dense orbits for commuting Cartan actions_. (Submitted) [arxiv:2509.05272](https://arxiv.org/abs/2509.05272)
 - (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Submitted) [arxiv:2504.09084](https://arxiv.org/abs/2504.09084)
@@ -55,6 +56,7 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 - _Schmidt's game and winning sets_.
 
 ## Talks:
+- (2026.7.16, SIMIS, invited by [Bohan Yang](https://www.simis.cn/bohan-yang/)) _Singular points for cone actions on the product of certain homogeneous spaces_.
 - (2026.4.24, Peking University Graduate Student Seminar) Title: _On ergodicity and symmetry for affine maps_.
 - (2026.4.17, Chongqing University, invited by [Runlin Zhang](https://runlinzhang.github.io/)) Title: _A quantitative version of Schmidt's conjecture_.
 - (2025.12.17, Peking University Graduate Student Seminar) Title: _A quantitative version of Schmidt's conjecture_.
@@ -70,8 +72,7 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 - (2025.2.6, Brandeis Topological Seminar, invited by [Daniel Alvarez-Gavela](https://danielalvarezgavela.com/)) Title: _Bounded geodesics on locally symmetric spaces_.
 - (2025.1.31, Tufts University, invited by [Boris Hasselblatt](https://facultyprofiles.tufts.edu/boris-hasselblatt)) Title: _Bounded geodesics on locally symmetric spaces_.
 - (2025.1.13, Chicago University, invited by [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/)) Title: _The symmetries of affine K-systems and a program for centralizer rigidity_.
-- (2024.10.22, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Two-dimensional
-quantitative Schmidt’s conjecture_.
+- (2024.10.22, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Two-dimensional quantitative Schmidt’s conjecture_.
 - (2024.9.19, Brandeis Graduate Student Seminar) Title: _Stable ergodicity and centralizers_.
 - (2024.8.6, Westlake University, invited by [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) Title: _Two-dimensional
 quantitative Schmidt’s conjecture_.
