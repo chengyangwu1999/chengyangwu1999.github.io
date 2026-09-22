@@ -39,16 +39,17 @@ Thesis advisor: [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.
 Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergraduate_Thesis.pdf).  
 
 ## Papers in Preparation:
-- (Joint work with [Pengyu Yang](http://www.mcm.ac.cn/people/members/202208/t20220831_1094331.html)) _Equi-distribution for weighted expanding translates on analytic curves in SL_3(R)/SL_3(Z)_.
-- (Joint work with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()) _A quantitative version of Schmidt's conjecture_.
+- _Equi-distribution for weighted expanding translates on analytic curves in SL_3(R)/SL_3(Z)_.
+- _A quantitative version of Schmidt's conjecture_ (with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()).
 
 ## Preprints and Publications:
-- (Joint work with [Vasiliy Neckrasov](https://www.vneckrasov.com/) and [Bohan Yang](https://www.simis.cn/bohan-yang/)) _Winning property of counterexamples to Uniform Littlewood's Conjecture_. (Submitted) [arXiv:2608.24401](https://arxiv.org/abs/2608.24401)
-- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Singular points for cone actions on the product of certain homogeneous spaces_. (Submitted) [arxiv:2607.15669](https://arxiv.org/abs/2607.15669)
-- (Joint work with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) _Simultaneously bounded and dense orbits for commuting Cartan actions_. (Submitted) [arxiv:2509.05272](https://arxiv.org/abs/2509.05272)
-- (Joint work with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)) _The symmetries of affine K-systems and a program for centralizer rigidity_. (Submitted) [arxiv:2504.09084](https://arxiv.org/abs/2504.09084)
-- (Joint work with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)) _Bounded geodesics on locally symmetric spaces_, **Ergodic Theory and Dynamical Systems** 46, no. 8 (2026): 1969–1993. [arxiv:2503.14007](https://arxiv.org/abs/2503.14007)
-- (Joint work with Zichang Wang and [Bohan Yang](https://www.simis.cn/bohan-yang/)) _On identities concerning integer parts_, **Combinatorics and Number Theory**, 13-4 (2024), 317--332. [arxiv:2410.10402](https://arxiv.org/abs/2410.10402)
+- **Bad(r;s)** _is hyperplane absolute winning_, preprint. [arXiv:2609.22016](https://arxiv.org/abs/2609.22016)
+- _Winning property of counterexamples to Uniform Littlewood's Conjecture_ (with [Vasiliy Neckrasov](https://www.vneckrasov.com/) and [Bohan Yang](https://www.simis.cn/bohan-yang/)), preprint. [arXiv:2608.24401](https://arxiv.org/abs/2608.24401)
+- _Singular points for cone actions on the product of certain homogeneous spaces_ (with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)), preprint. [arxiv:2607.15669](https://arxiv.org/abs/2607.15669)
+- _Simultaneously bounded and dense orbits for commuting Cartan actions_ (with [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)), preprint. [arxiv:2509.05272](https://arxiv.org/abs/2509.05272)
+- _The symmetries of affine K-systems and a program for centralizer rigidity_ (with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)), preprint. [arxiv:2504.09084](https://arxiv.org/abs/2504.09084)
+- _Bounded geodesics on locally symmetric spaces_ (with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)), **Ergodic Theory and Dynamical Systems** 46, no. 8 (2026): 1969–1993. [arxiv:2503.14007](https://arxiv.org/abs/2503.14007)
+- _On identities concerning integer parts_ (with Zichang Wang and [Bohan Yang](https://www.simis.cn/bohan-yang/)), **Combinatorics and Number Theory**, 13-4 (2024), 317--332. [arxiv:2410.10402](https://arxiv.org/abs/2410.10402)
 
 ## Notes:
 - _Probability theory and stochastic process_.
