@@ -43,6 +43,7 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 - _A quantitative version of Schmidt's conjecture_ (with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/) and [Sanju Velani]()).
 
 ## Notes:
+- _Bounded orbits on homogeneous spaces and bounded geodesics on locally symmetric spaces_. [arXiv:2610.24979](https://arxiv.org/abs/2610.24979)
 - **Bad(r;s)** _is hyperplane absolute winning_. [arXiv:2609.22016](https://arxiv.org/abs/2609.22016)
 
 
@@ -55,8 +56,10 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 - _On identities concerning integer parts_ (with Zichang Wang and [Bohan Yang](https://www.simis.cn/bohan-yang/)), **Combinatorics and Number Theory**, 13-4 (2024), 317--332. [arxiv:2410.10402](https://arxiv.org/abs/2410.10402)
 
 ## Talks:
+- (2026.10.14, Dickson Day) _Simultaneous behavior on homogeneous spaces_.
+- (2026.9.28, University of Chicago, invited by [Sven Sandfeldt](https://mathematics.uchicago.edu/people/profile/sven-sandfeldt/)) _On ergodicity and symetries of affine maps._
 - (2026.7.16, SIMIS, invited by [Bohan Yang](https://www.simis.cn/bohan-yang/)) _Singular points for cone actions on the product of certain homogeneous spaces_.
-- (2026.4.24, Peking University Graduate Student Seminar) Title: _On ergodicity and symmetry for affine maps_.
+- (2026.4.24, Peking University Graduate Student Seminar) Title: _On ergodicity and symmetry of affine maps_.
 - (2026.4.17, Chongqing University, invited by [Runlin Zhang](https://runlinzhang.github.io/)) Title: _A quantitative version of Schmidt's conjecture_.
 - (2025.12.17, Peking University Graduate Student Seminar) Title: _A quantitative version of Schmidt's conjecture_.
 - (2025.11.29, TMSE, invited by [Weisheng Wu](https://math.xmu.edu.cn/info/1081/11192.htm)) Title: _Topological rigidity and history of Margulis' conjecture_.
