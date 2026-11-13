@@ -58,6 +58,7 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 - _On identities concerning integer parts_ (with Zichang Wang and [Bohan Yang](https://www.simis.cn/bohan-yang/)), **Combinatorics and Number Theory**, 13-4 (2024), 317--332. [arxiv:2410.10402](https://arxiv.org/abs/2410.10402)
 
 ## Talks:
+- (2025.10.22, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Winning property of counterexamples to Uniform Littlewood's Conjecture_.
 - (2026.10.14, Dickson Day) _Simultaneous behavior on homogeneous spaces_.
 - (2026.9.28, University of Chicago, invited by [Sven Sandfeldt](https://mathematics.uchicago.edu/people/profile/sven-sandfeldt/)) _On ergodicity and symetries of affine maps._
 - (2026.7.16, SIMIS, invited by [Bohan Yang](https://www.simis.cn/bohan-yang/)) _Singular points for cone actions on the product of certain homogeneous spaces_.
