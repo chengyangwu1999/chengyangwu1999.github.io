@@ -48,7 +48,7 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 
 
 ## Preprints and Publications:
-- _Density of periodic measures on SL_2(R)/SL_2(Z) with prescribed arithmetic information_ (with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html) and [Weisheng Wu](https://www.researchgate.net/profile/Weisheng-Wu)) [arxiv:2611.15865](https://arxiv.org/abs/2611.15685)
+- _Density of periodic measures on SL_2(R)/SL_2(Z) with prescribed arithmetic information_ (with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html) and [Weisheng Wu](https://www.researchgate.net/profile/Weisheng-Wu)), preprint. [arxiv:2611.15865](https://arxiv.org/abs/2611.15685)
 - _On ergodicity and symmetry for affine systems_ (with [Danijela Damjanovic](https://www.kth.se/profile/ddam), [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/), and [Disheng Xu](https://sites.google.com/view/dishengxu/homepage)), preprint. [arxiv:2611.14187](https://arxiv.org/abs/2611.14187)
 - _Winning property of counterexamples to Uniform Littlewood's Conjecture_ (with [Vasiliy Neckrasov](https://www.vneckrasov.com/) and [Bohan Yang](https://www.simis.cn/bohan-yang/)), preprint. [arXiv:2608.24401](https://arxiv.org/abs/2608.24401)
 - _Singular points for cone actions on the product of certain homogeneous spaces_ (with [Lifan Guan](https://www.westlake.edu.cn/faculty/lifan-guan.html)), preprint. [arxiv:2607.15669](https://arxiv.org/abs/2607.15669)
