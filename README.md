@@ -33,7 +33,7 @@ Co-advisor: [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/).
 - (2021.9-2026.6) Ph.D., School of Mathematical Sciences, Peking University.<br>
 Advisor: [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).
 Thesis: [A quantitative version of Schmidt's conjecture (Chinese version)](). <br>
-Acknowledgement: [Acknowledgement in Ph.D. thesis (English version)]().
+Acknowledgement: [Acknowledgement in Ph.D. thesis (English version)](File/acknowledgements_bilingual.pdf).
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University.<br>
 Thesis advisor: [Fuhai Zhu](https://math.nju.edu.cn/jzyg/apypl/20240321/i261793.html).
 Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergraduate_Thesis.pdf).  
@@ -59,7 +59,7 @@ Thesis: [On a class of Frobenius Lie algebras (Chinese version)](File/Undergradu
 
 ## Talks:
 - (2025.10.22, New England Dynamics and Number Theory Seminar, invited by [Dmitry Kleinbock](https://people.brandeis.edu/~kleinboc/)) Title: _Winning property of counterexamples to Uniform Littlewood's Conjecture_.
-- (2026.10.14, Dickson Day) _Simultaneous behavior on homogeneous spaces_.
+- (2026.10.14, University of Chicago, Dickson Day) _Simultaneous behavior on homogeneous spaces_.
 - (2026.9.28, University of Chicago, invited by [Sven Sandfeldt](https://mathematics.uchicago.edu/people/profile/sven-sandfeldt/)) _On ergodicity and symetries of affine maps._
 - (2026.7.16, SIMIS, invited by [Bohan Yang](https://www.simis.cn/bohan-yang/)) _Singular points for cone actions on the product of certain homogeneous spaces_.
 - (2026.4.24, Peking University Graduate Student Seminar) Title: _On ergodicity and symmetry of affine maps_.
